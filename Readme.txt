@@ -1,3 +1,9 @@
+Welcome to my digital portfolio.
+Please use the link 'https://utg-404.github.io/' to access the portfolio.
+
+Please note this portfolio is still in development. Suggestions and comments are welcome. 
+
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
